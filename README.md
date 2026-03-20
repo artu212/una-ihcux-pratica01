@@ -27,4 +27,5 @@ Move arquivos ou muda o nome deles.
 Deleta um arquivo (não vai para a lixeira!).
 
 **objetivo**
+
 Praticar a navegação e manipulação de arquivos e diretórios utilizando o Prompt de Comando do Windows.
