@@ -4,6 +4,7 @@ Prática 01 - comandos básicos (`dir`, `cd`, `mkdir`, `etc`)
 Este repositório contém os principais comandos utilizados durante a aula prática de manipulação de diretórios no Prompt de Comando do Windows.
 
 **comandos utilizados:**
+
 `dir`
 Lista todos os arquivos da pasta atual.
 
